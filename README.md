@@ -93,7 +93,7 @@ This project demonstrated the power of **machine learning** and **data-driven an
 ![Smoking Frequency by Governorate](images/smoking_frequency_image.png)
 
 ### 2. Lifestyle Clusters (PCA-Reduced)
-![Lifestyle Clusters](lifestyle_clusters_image.png)
+![Lifestyle Clusters](images/lifestyle_clusters_image.png)
 
 ### 3. Feature Importance (Random Forest)
 ![Feature Importance](images/feature_importance_image.png)
